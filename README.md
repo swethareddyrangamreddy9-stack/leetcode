@@ -15,6 +15,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/swethareddyrangamreddy9-stack/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swethareddyrangamreddy9-stack/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/swethareddyrangamreddy9-stack/leetcode/tree/master/0264-ugly-number-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -35,4 +36,16 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/swethareddyrangamreddy9-stack/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/swethareddyrangamreddy9-stack/leetcode/tree/master/0264-ugly-number-ii) |
+## Math
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/swethareddyrangamreddy9-stack/leetcode/tree/master/0264-ugly-number-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/swethareddyrangamreddy9-stack/leetcode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
